@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696429582467",
+    "project_id": "noteslinkcui",
+    "storage_bucket": "noteslinkcui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696429582467:android:a93240ce76e21c198763b6",
+        "android_client_info": {
+          "package_name": "com.noteslink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJUTeu3txo0X1L0YyLXLHmccuZtkOLL3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
